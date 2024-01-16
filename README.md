@@ -1,1 +1,1 @@
-# Feature-Selection-Feature-Engineering---99Acres
+In my project, I used a smart computer system to make predictions about house prices. I carefully chose the most important information about houses (called features) to help the computer make accurate predictions. Additionally, I did another round of improving these features to make the predictions even better. This helps the computer understand which factors are most important in determining the price of a house
